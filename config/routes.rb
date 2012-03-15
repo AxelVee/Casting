@@ -1,4 +1,8 @@
 Casting::Application.routes.draw do
+  get "home/users"
+
+  get "home/posts"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
