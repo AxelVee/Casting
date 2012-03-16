@@ -1,4 +1,10 @@
 Casting::Application.routes.draw do
+  get "prova/ex1"
+
+  get "prova/ex2"
+
+  get "prova/ex3"
+
   get "home/users"
 
   get "home/posts"
