@@ -1,7 +1,7 @@
 Casting::Application.routes.draw do
 
 
-  root :to => "welcome#homepage"
+  root :to => "home#homepage"
 
   get "prova/ex1"
 
