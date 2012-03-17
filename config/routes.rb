@@ -3,11 +3,7 @@ Casting::Application.routes.draw do
 
   root :to => "home#homepage"
 
-  get "prova/ex1"
-
-  get "prova/ex2"
-
-  get "prova/ex3"
+ get "home/about"
 
   get "home/users"
 

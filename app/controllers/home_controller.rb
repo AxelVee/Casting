@@ -1,8 +1,6 @@
 class HomeController < ApplicationController
 
-  def /
-    
-  end
+
   
   def home
     @title = "Home"
@@ -23,5 +21,12 @@ class HomeController < ApplicationController
 
   def posts
   end
+  
+  def homepage
+    
+  end
 
+  def about
+    
+  end
 end
