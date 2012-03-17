@@ -252,7 +252,26 @@ img {
 }
 
 #aggiunto
-	div.container{
+	.container{
 	background-position: 0 0;
 	width: 40px;
+	padding: 0 3px;
+}
+
+nav {
+	float:right;
+	background:black;
+	padding:0 0.7em;
+	white-space: nowrap;
+}
+
+nav ul{
+	margin: 0:
+	padding 0;
+}
+
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	padding: 0.2em;
 }
