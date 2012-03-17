@@ -250,3 +250,9 @@ img {
 #sidebar {
 	_height: 1440px;
 }
+
+#aggiunto
+	.container{
+	background-position: 0 0;
+	width: 40px;
+}
