@@ -1,5 +1,8 @@
 class HomeController < ApplicationController
 
+  def /
+    
+  end
   
   def home
     @title = "Home"
