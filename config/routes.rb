@@ -2,6 +2,8 @@ Casting::Application.routes.draw do
 
 
   root :to => "home#homepage"
+  
+  match '/about', :to => 'home#about'
 
  get "home/about"
 
