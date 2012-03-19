@@ -4,10 +4,10 @@ module ApplicationHelper
   
   def title
     base_title = "La Gilda"
-    if @title.nil
+    if @title.nil?
       base_title
     else
-      "#{base_title} | #{@title}"    
-      end
+      "#{base_title} | #{@title}"
+    end
   end
 end
