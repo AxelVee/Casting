@@ -14,7 +14,9 @@ class HomeController < ApplicationController
     @title = "About"
   end
 
-
+  def news
+    
+  end
 
   def users
   end

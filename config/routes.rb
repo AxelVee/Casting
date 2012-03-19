@@ -5,12 +5,13 @@ Casting::Application.routes.draw do
   
   match '/about', :to => 'home#about'
 
- get "home/about"
+  get "home/about"
 
   get "home/users"
 
   get "home/posts"
 
+  get "home/news"
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
