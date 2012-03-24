@@ -11,10 +11,10 @@ img {
 	border: 0;
 }
 #background {
-	background-color: #050404 repeat-y left top;
+	background-color: #050404;
 	display: block;
-	height: 100%;
-	width: 50%;
+	height: 1200px;
+	width: 40%;
 	position: absolute;
 	left: 0;
 	top: 0;
