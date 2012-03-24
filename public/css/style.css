@@ -18,6 +18,7 @@ img {
 	position: absolute;
 	left: 0;
 	top: 0;
+	bottom: 0;
 }
 #page {
 	background: url(../images/bg-page.jpg) repeat-y left top;
