@@ -23,7 +23,7 @@ img {
 	width: 960px;
 	min-height: 600px;
 	margin: 0 auto;
-	position: relative;
+	position: absolute;
 }
 
 #connect .facebook, #connect .twitter, #connect .link-us {
