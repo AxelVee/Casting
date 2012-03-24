@@ -19,3 +19,21 @@ nav ul li{
 	display: inline-block;
 	padding: 0.2em
 }
+#contents div.tags {
+	background-color: #bfbdbd;
+	height: 40px;
+	line-height: 40px;
+	margin-bottom: 20px;
+	padding: 0;
+}
+#contents div.tags span {
+	color: #626262;
+	font-size: 0.92em;
+	padding: 0 10px;
+	text-transform: uppercase;
+}
+#contents div.tags a {
+	color: #faf7f7;
+	font-size: 12px;
+	padding: 0 10px;
+}
