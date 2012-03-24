@@ -211,6 +211,8 @@ img {
 	padding: 0;
 	text-align: center;
 	width: 200px;
+	margin-right: auto;
+	margin left: 500px;
 }
 #contents div.tags span {
 	color: #626262;
