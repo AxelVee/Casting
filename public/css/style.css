@@ -258,9 +258,4 @@ img {
 	_height: 1440px;
 }
 
-#container {
-	position: relative;
-width:400px;
-height:300px;
-margin:0px auto; /*Centra negli altri browsers*/
-}
+
