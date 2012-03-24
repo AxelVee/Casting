@@ -19,10 +19,11 @@ img {
 	top: 0;
 }
 #page {
-	background: url(../images/bg-page.jpg) repeat-y left ;
+	background: url(../images/bg-page.jpg) repeat-y left top;
 	width: 960px;
 	height: 1300px;
 	margin: 0 auto;
+	bottom: 0;
 	position: relative;
 }
 
