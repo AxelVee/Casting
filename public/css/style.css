@@ -117,7 +117,7 @@ img {
 /** Contents **/
 #contents {
 	min-height: 10px;
-	width: 90px;
+	min-width: 690px;
 	margin: 0 0 0 264px;
 	padding-top: 60px;
 }
