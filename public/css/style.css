@@ -21,7 +21,7 @@ img {
 #page {
 	background: url(../images/bg-page.jpg) repeat-y left top;
 	width: 960px;
-	min-height: 1000px;
+	min-height: 600px;
 	margin: 0 auto;
 	position: relative;
 }
