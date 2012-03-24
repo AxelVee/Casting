@@ -13,18 +13,18 @@ img {
 #background {
 	background-color: #050404;
 	display: block;
-	min-height: 100%;
+	height: 100%;
 	width: 50%;
-	position: absolute;
+	position: relative;
 	left: 0;
 	top: 0;
-	margin:auto;
+
 
 }
 #page {
 	background: url(../images/bg-page.jpg) repeat-y left top;
 	width: 960px;
-	min-height: 100%;
+	height: 100%;
 	margin: 0 auto;
 	left:0;
 
