@@ -22,7 +22,7 @@ img {
 #page {
 	background: url(../images/bg-page.jpg) repeat-y left top;
 	width: 960px;
-	height: 1300px;
+	height: 100%;
 	margin: 0 auto;
 	margin-bottom: -32000px;
 	position: relative;
