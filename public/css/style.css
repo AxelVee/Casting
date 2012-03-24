@@ -213,6 +213,7 @@ img {
 	width: 200px;
 	margin-right: 700px;
 	margin left: auto;
+	float: left;
 }
 #contents div.tags span {
 	color: #626262;
