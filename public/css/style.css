@@ -20,7 +20,7 @@ img {
 }
 #page {
 	background: url(../images/bg-page.jpg) repeat-y left top;
-	width: 700px;
+	width: 960px;
 	margin: 0 auto;
 	position: relative;
 }
