@@ -12,14 +12,14 @@ img {
 #background {
 	background-color: #050404;
 	display: block;
-	height: 1100px;
+	height: 1300px;
 	width: 50%;
 	position: absolute;
 	left: 0;
 	top: 0;
 }
 #page {
-	background: url(../images/bg-page.jpg) repeat-y left top;
+	background: url(../images/bg-page.jpg) repeat-y left ;
 	width: 960px;
 	height: 1300px;
 	margin: 0 auto;
