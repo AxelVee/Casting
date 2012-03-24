@@ -250,4 +250,8 @@ img {
 #sidebar {
 	_height: 1440px;
 }
-
+#container {
+width:400px;
+height:300px;
+margin:0px auto; /*Centra negli altri browsers*/
+}
