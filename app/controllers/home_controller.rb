@@ -1,6 +1,9 @@
 class HomeController < ApplicationController
 
 
+  def termsofuse
+    @title = "Termini di servizio"  
+  end
   
   def home
     
@@ -28,5 +31,6 @@ class HomeController < ApplicationController
     
   end
 
+  
  
 end
