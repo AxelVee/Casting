@@ -13,7 +13,7 @@ img {
 #background {
 	background-color: #050404;
 	display: block;
-	height: 1300px;
+	height: 100%;
 	width: 50%;
 	position: absolute;
 	left: 0;
