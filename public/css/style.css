@@ -13,7 +13,7 @@ img {
 #background {
 	background-color: #050404;
 	display: block;
-	height: 1440 auto;
+	height: auto;
 	width: 70%;
 	position: absolute;
 	left: 0;
@@ -25,6 +25,7 @@ img {
 	width: 960px;
 	height: 100%;
 	margin: 0 auto;
+	left:0;
 	margin-bottom: -32000px;
 	position: relative;
 	
