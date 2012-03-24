@@ -13,16 +13,16 @@ img {
 #background {
 	background-color: #050404;
 	display: block;
-	height: auto;
+	height: 1440 auto;
 	width: 70%;
-	position: relative;
+	position: absolute;
 	left: 0;
 	top: 0;
 
 }
 #page {
 	background: url(../images/bg-page.jpg) repeat-y left top;
-	width: 1500px;
+	width: 960px;
 	height: 100%;
 	margin: 0 auto;
 	margin-bottom: -32000px;
