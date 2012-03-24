@@ -1,6 +1,7 @@
 /* Website template by freewebsitetemplates.com */
 html {
 	font-family: Arial, Helvetica, sans-serif;
+	height = auto;
 }
 body {
 	background: url(../images/bg-body.jpg) repeat;
