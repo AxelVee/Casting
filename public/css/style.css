@@ -214,7 +214,7 @@ img {
 	margin-right: auto;
 	margin left: auto;
 	position: absolute;
-	float: none;
+	float: center;
 
 }
 #contents div.tags span {
