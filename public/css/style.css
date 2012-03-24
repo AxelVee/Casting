@@ -210,9 +210,11 @@ img {
 	margin-bottom: auto;
 	padding: 0;
 	text-align: center;
-	width: 200px;
+	width: 100%;
 	margin-right: 200px;
 	margin left: auto;
+	position: absolute;
+	bottom: 0;
 	
 }
 #contents div.tags span {
@@ -258,6 +260,7 @@ img {
 }
 
 #container {
+	position: relative;
 width:400px;
 height:300px;
 margin:0px auto; /*Centra negli altri browsers*/
