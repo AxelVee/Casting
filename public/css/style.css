@@ -11,9 +11,9 @@ img {
 	border: 0;
 }
 #background {
-	background-color: #050404;
+	background-color: #050404 repeat-y left top;
 	display: block;
-	height: inherit;
+	height: 100%;
 	width: 50%;
 	position: absolute;
 	left: 0;
