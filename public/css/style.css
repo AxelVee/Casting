@@ -12,7 +12,7 @@ img {
 #background {
 	background-color: #050404;
 	display: block;
-	min-height: 1400px;
+	min-height: 1350px;
 	width: 50%;
 	position: absolute;
 	left: 0;
@@ -21,7 +21,7 @@ img {
 #page {
 	background: url(../images/bg-page.jpg) repeat-y left top;
 	width: 960px;
-	min-height: 1400px;
+	min-height: 1350px;
 	margin: 0 auto;
 	position: relative;
 }
