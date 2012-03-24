@@ -23,8 +23,11 @@ img {
 	width: 960px;
 	height: 1300px;
 	margin: 0 auto;
-	bottom: 0;
+	margin-bottom: -32000px;
 	position: relative;
+	padding-bottom: 32000px;
+	overflow: hidden;
+	
 }
 
 #connect .facebook, #connect .twitter, #connect .link-us {
