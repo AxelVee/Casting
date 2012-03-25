@@ -13,8 +13,8 @@ img {
 #background {
 	background-color: #050404;
 	display: block;
-	min-height: 100%;
-	width: 50%;
+	min-height: 1000px;
+	width: 30%;
 	position: relative;
 	left: 0;
 	top: 0;
