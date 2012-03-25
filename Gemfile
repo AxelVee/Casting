@@ -27,6 +27,7 @@ gem "heroku", "2.20.1"
 # gem 'aws-s3', :require => 'aws/s3'
 group :development do
   gem 'rspec-rails'
+  gem 'annotated_models'
 end
 
 group :test do
