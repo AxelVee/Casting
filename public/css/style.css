@@ -15,7 +15,7 @@ img {
 	display: block;
 	min-height: 1000px;
 	width: 30%;
-	position: relative;
+	position: absolute;
 	left: 0;
 	top: 0;
 
