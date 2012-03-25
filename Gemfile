@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'rails', '3.1.0'
+gem 'rails', '3.0.7'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
@@ -12,8 +12,9 @@ gem "spork","0.9.0"
 gem "heroku", "2.20.1"
 gem "activeadmin"
 gem "jquery-rails"
-gem "railties", "~> 3.1.0"
-gem "meta_search"
+
+
+gem "rake", "0.8.7"
 # Use unicorn as the web server
 # gem 'unicorn'
 
@@ -35,8 +36,7 @@ group :development do
 end
 
 group :assets do
-  gem 'sass-rails', "~> 3.1.0"
-  gem 'coffee-rails', "~> 3.1.0"
+
   gem 'uglifier'
 end
 
