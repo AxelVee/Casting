@@ -13,8 +13,7 @@ gem "heroku", "2.20.1"
 gem "activeadmin"
 gem "jquery-rails"
 
-
-gem "rake", "0.8.7"
+gem "rake", "0.9.0"
 # Use unicorn as the web server
 # gem 'unicorn'
 
