@@ -10,10 +10,10 @@ gem "sqlite3"
 gem "rspec-core"
 gem "spork","0.9.0"
 gem "heroku", "2.20.1"
-gem "activeadmin"
+gem 'builder', '2.1.2'
 gem "jquery-rails"
-gem "bourbon", "1.0.0"
-gem "rake", "0.9.2"
+
+gem "rake", "0.9.0"
 # Use unicorn as the web server
 # gem 'unicorn'
 
@@ -35,7 +35,7 @@ group :development do
 end
 
 group :assets do
-
+  gem 'sass'
   gem 'uglifier'
 end
 
