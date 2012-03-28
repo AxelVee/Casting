@@ -6,13 +6,13 @@ gem 'rails', '3.0.9'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem "sqlite3-ruby", "~> 1.3.3"
-gem "sqlite3"
+gem "sqlite3", "1.3.5"
 gem "rspec-core"
 gem "spork","0.9.0"
 gem "heroku", "2.20.1"
-gem 'builder', '2.1.2'
+gem 'devise'
 gem "jquery-rails"
-
+gem 'admin_data', '= 1.1.14'
 gem "rake", "0.9.0"
 # Use unicorn as the web server
 # gem 'unicorn'
@@ -34,10 +34,6 @@ group :development do
   gem 'annotated_models'
 end
 
-group :assets do
-  gem 'sass'
-  gem 'uglifier'
-end
 
 group :test do
   gem 'rspec-rails'
