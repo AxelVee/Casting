@@ -6,7 +6,7 @@ gem 'rails', '3.0.9'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem "sqlite3-ruby", "~> 1.3.3"
-gem "sqlite3", "1.3.5"
+gem "sqlite3"
 gem "rspec-core"
 gem "spork","0.9.0"
 gem "heroku", "2.20.1"
